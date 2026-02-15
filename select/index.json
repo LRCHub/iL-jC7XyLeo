@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スウィート・ホーム・アラバマ",
+  "base_artist": "Lynyrd Skynyrd",
+  "createdAt": "2026-02-15T14:05:31.113022Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Home_Alabama_Lynyrd_Skynyrd.txt"
+    }
+  ]
+}
